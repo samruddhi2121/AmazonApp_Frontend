@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.h1{
+    color: white;
+    margin-left: 20px;
+    padding: 50px;
+}
+
+.h3{
+    color: white;
+    margin-top: -20px;
+    margin-left: 60px;
+}
+
+
+.cust{
+   
+    height: 800px;
+    width: 100%;
+    background-color: #2162a1;
+    
+}
+
+.part{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    
+}
+
+.shoping{
+    gap: 20px;
+    height: 100px;
+    width: 450px;
+    background-color: white;
+    display: flex;
+    border-radius: 7px;
+    align-items: center;
+}
+.pic img{
+    height: 90px;
+    width: 100px;
+}
+
+
+.text, p{
+    font-size: 20px;
+    color: black;
+}

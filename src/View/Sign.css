@@ -1,0 +1,93 @@
+.main{
+    display: flex;
+    justify-content: center;
+}
+
+header{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    height: 500px;
+    width: 450px;
+    background-color: white;
+    /* border: 2px solid black; */
+    box-shadow: 2px 2px 5px black;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(74, 10, 104, 0.7);
+   
+
+}
+
+.sign{
+    margin-top: 15px;
+    margin-left: 50px;
+    font-size: 50px;
+}
+.mn{
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.input-type input{
+    margin-left: 25px;
+    width: 370px;
+    padding: 15px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.button button{
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 400px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: yellow;
+    border: none;
+    font-size: 17px;
+}
+.text1 p{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 15px;
+    /* text-align: center; */
+}
+
+.Needhelp select{
+    margin-top: 30px;
+    padding: 13px;
+    margin-left: 14px;
+    border: none;
+}
+select:hover{
+    border: 2px solid rgb(6, 54, 71);
+    border-radius: 10px;
+}
+.line{
+    margin-top: 50px;
+    margin-left: 15px;
+    text-align: center;
+}
+
+
+.shop,a{
+    margin-left: 10px;
+    text-decoration: none;
+    color: rgb(68, 68, 214);
+}
+
+.shop a:hover{
+    text-decoration: underline;
+    color: brown;
+}
+
+.text a:hover{
+    text-decoration: underline;
+    color: brown;
+}
+
+.bw{
+    margin-left: 20px;
+    font-weight: 600;
+    padding: 10px;
+}

@@ -1,0 +1,93 @@
+[
+    {
+        "id":1 ,
+        "name":"Winter Deals",
+        "price":2000,
+        "desciption":"this is for Adult people ",
+        "color":"Available in All color",
+        "stock quantity":180,
+        "img":"https://m.media-amazon.com/images/I/21rFQtNSQSL.jpg"
+
+    },
+
+    {
+        "id":2 ,
+        "name":"Overstock deals",
+        "price":4000,
+        "desciption":"this is used in kitchen ",
+        "color":"sky blue",
+        "stock quantity":110,
+        "img":"https://m.media-amazon.com/images/I/117ocg3LwJL.jpg"
+    },
+
+    {
+        "id":3 ,
+        "name":"Sports & Outdoors",
+        "price":6000,
+        "desciption":"this is used in gym ",
+        "color":"blue",
+        "stock quantity":1870,
+        "img":"https://m.media-amazon.com/images/I/21lKyo7hiEL.jpg"
+
+    },
+
+    {
+        
+        "id":4 ,
+        "name":"Fashion",
+        "price":2500,
+        "desciption":"used for kids and adult",
+        "color":"violet",
+        "stock quantity":1890,
+        "img":"https://m.media-amazon.com/images/I/211I9f0cCOL.jpg"
+
+    },
+
+    {
+       
+        "id":5 ,
+        "name":"Electronics",
+        "price":8000,
+        "desciption":"for listining Purpose",
+        "color":"pink",
+        "stock quantity":128,
+        "img":"https://m.media-amazon.com/images/I/21kkdkpAfZL.jpg"
+ 
+    },
+
+    {
+        
+        "id":6 ,
+        "name":"Beauty",
+        "price":2000,
+        "desciption":"Makeup purpose",
+        "color":"All",
+        "stock quantity":120,
+        "img":"https://m.media-amazon.com/images/I/21mP3BP+hjL.jpg"
+    },
+
+    
+    {
+        
+        "id":7 ,
+        "name":"Home",
+        "price":8000,
+        "desciption":"tiffin box",
+        "color":"white",
+        "stock quantity":1100,
+        "img":"https://m.media-amazon.com/images/I/2152nQZbKzL.jpg"
+    },
+
+    {
+        
+        "id":8 ,
+        "name":"Electronics",
+        "price":1000,
+        "desciption":" study,reading, purpose",
+        "color":"All",
+        "stock quantity":1200,
+        "img":"https://m.media-amazon.com/images/I/21kkdkpAfZL.jpg"
+    }
+    
+
+]
