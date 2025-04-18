@@ -74,7 +74,7 @@ const ProductByType = () => {
         {products.length > 0 ? (
           products.map((product) => (
             <div key={product.id} className="product-card">
-              {/* Link to product details page */}
+              {/* Link to product id page */}
               <Link to={`/BuyProduct/${product.id}`} className="product-link">
                 <img
                   src={product.image || "/default-product.jpg"} // Default image if not provided

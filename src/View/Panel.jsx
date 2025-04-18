@@ -24,6 +24,7 @@ const Panel = () => {
 
             <div className="panel-deals">
                 <Link to="/BuyProductByType/:type"><h3>Buy Product</h3></Link>
+                {/* <Link to="/BuyProduct"><h3>Buy Product</h3></Link> */}
             </div>
         </div>
     </div>

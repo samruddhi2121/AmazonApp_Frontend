@@ -9,22 +9,24 @@ const Shppart=()=>{
     return(
         <div>
             <div className="shop-section">
-                            <div className="box1 box">
+                            {/* <div className="box1 box">
                                 <div className="box-content">
                                     <h2>Get your game on</h2>
                                     <div className="box-img">
                                         <img src={box1} alt="" />
+                                        
                                     </div>
                                    
             
                                 </div>
-                            </div>
+                            </div> */}
                             <div className="box2 box">
                                 <div className="box-content">
                                     <h2>Get your Mobile</h2>
                                     <div className="box-img" >
                                         <img src={box1} alt="" />
                                     </div>
+                                    <button>View More</button>
                                   
             
                                 </div>
@@ -39,27 +41,9 @@ const Shppart=()=>{
             
                                 </div>
                             </div>
-                            <div className="box4 box">
-                                <div className="box-content">
-                                    <h2>Handcrafted wall </h2>
-                                    <div className="box-img" >
-                                        <img src={box4} alt="" />
-                                    </div>
-                                   
-            
-                                </div>
-                            </div>
-                            <div className="box5 box">
-                                <div className="box-content">
-                                    <h2>Get plant</h2>
-                                    <div className="box-img" >
-                                        <img src={box4} alt="" />
-                                    </div>
-                                    
-            
-                                </div>
-                            </div>
-                            <div className="box6 box">
+                            
+                         
+                            {/* <div className="box6 box">
                                 <div className="box-content">
                                     <h2>Clothes</h2>
                                     <div className="box-img" >
@@ -68,7 +52,7 @@ const Shppart=()=>{
                                     
             
                                 </div>
-                            </div>
+                            </div> */}
                             <div className="box7 box">
                                 <div className="box-content">
                                     <h2>Beauty Product</h2>
@@ -81,19 +65,7 @@ const Shppart=()=>{
             
                                 </div>
                             </div>
-                            <div className="box8 box">
-                                <div className="box-content">
-                                    <h2>Furniture</h2>
-                                    <div className="box-img">
-                                        <img src={box2} alt="" />
-                                    </div>
-                                    {/* <div className="seemore">
-                                    <p><a href="#">See more</a></p>
-                                    </div> */}
-                                    
-            
-                                </div>
-                            </div>
+                            
             
                         </div>
         </div>

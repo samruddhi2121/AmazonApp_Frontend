@@ -4,6 +4,7 @@ import Hero from './Hero'
 // import Footer from './Footer'
 // import Panel from './Panel'
 import Shppart from './Shppart'
+import Product from '../Phase4/Product';
 // import TodaysDeals from './TodaysDeals'
 
 function Home() {
@@ -13,7 +14,8 @@ function Home() {
         {/* <Nav/> */}
         {/* <Panel/> */}
         <Hero/>
-        <Shppart/>
+        {/* <Shppart/> */}
+        <Product/>
         {/* <Footer/> */}
         
 
